@@ -6,4 +6,4 @@ winget install Oracle.VirtualBox
 bcdedit.exe /set hypervisorlauchtype off
 
 #reboot windows
-shutdown /r now
+shutdown /r
